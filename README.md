@@ -1,1 +1,1 @@
-A simple django project for an event publishing portal
+A simple django project for an event publishing portal!!!
